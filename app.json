@@ -1,0 +1,25 @@
+{
+  "id": "a513d7f2-3295-4505-b978-56135797c4d1",
+  "name": "52PowerBI Core",
+  "publisher": "Fiftytwo A/S",
+  "brief": "52PowerBI Core",
+  "description": "52PowerBI Core 1.0.0.0",
+  "version": "1.0.0.0",
+  "privacyStatement": "https://www.fiftytwo.com/da/privatlivspolitik",
+  "EULA": "https://www.fiftytwo.com/52PowerBiCore/EULA",
+  "help": "https://www.fiftytwo.com/52PowerBiCore/Help",
+  "url": "http://www.fiftytwo.com",
+  "logo": "image/logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "20.0.0.0",
+  "application": "20.0.0.0",
+  "target": "Cloud",
+  "contextSensitiveHelpUrl": "https://fiftytwo.com",
+  "showMyCode": true,
+  "runtime": "8.0",
+  "idRange": {"from": 6042300,"to": 6042399},
+  "features": [
+    "TranslationFile"
+  ]
+}
